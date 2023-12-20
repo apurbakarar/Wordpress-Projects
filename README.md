@@ -5,5 +5,3 @@
  * Author: Apurba Karar
  * Author URI: https://github.com/apurbakarar/
  * Version: 1.0
- * Requires at least: 6.2
- * Requires PHP: 7.4
